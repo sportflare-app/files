@@ -1,4 +1,5 @@
 *.iml
+*.mobirise
 .gradle
 /.idea
 /local.properties
