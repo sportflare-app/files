@@ -1,12 +1,3 @@
 *.iml
-*.mobirise
-.gradle
 /.idea
-/local.properties
 .DS_Store
-/build
-/release
-/captures
-.externalNativeBuild
-.cxx
-local.properties
