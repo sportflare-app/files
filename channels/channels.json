@@ -1,6 +1,6 @@
 {
     "appLatestVersion": "1.0",
-    "channelsDate": "5 feb 2026",
+    "channelsDate": "6 feb 2026",
     "channels":
     [
         {
@@ -162,8 +162,8 @@
         {
             "id": "12",
             "code": "a9bddffdff085cdc18b34218d5dc1093b88e3c0a",
-            "description": "SKY Sports LaLiga SD (elcano)",
-            "icon": "mlaliga",
+            "description": "Sky Sports LaLiga SD (elcano)",
+            "icon": "skysports",
             "category":
             {
                 "id": "mlaliga",
@@ -969,7 +969,7 @@
             "id": "74",
             "code": "8bdeb6055da0be3bd1e1977dbf3640408f7d0267",
             "description": "DAZN Eventos 2 (new era)",
-            "icon": "dazn4",
+            "icon": "dazn",
             "category":
             {
                 "id": "dazn",
@@ -982,7 +982,7 @@
             "id": "75",
             "code": "4b048bcfaed7daec454e88f0e29b56756300447d",
             "description": "DAZN Eventos 3 (new era)",
-            "icon": "dazn4",
+            "icon": "dazn",
             "category":
             {
                 "id": "dazn",
@@ -1086,7 +1086,7 @@
             "id": "83",
             "code": "53962d7fb865aff73b34a3afb2905cd492f60d75",
             "description": "DAZN Baloncesto 1 (elcano)",
-            "icon": "daznbasket",
+            "icon": "daznbasket1",
             "category":
             {
                 "id": "daznbasket",
@@ -1099,7 +1099,7 @@
             "id": "84",
             "code": "22b702984a0db43fd371c30e2df150b2336551cd",
             "description": "DAZN Baloncesto 2 (elcano)",
-            "icon": "daznbasket",
+            "icon": "daznbasket2",
             "category":
             {
                 "id": "daznbasket",
@@ -1112,7 +1112,7 @@
             "id": "85",
             "code": "02ec118ee4586d96df9115ffc486be9a499d00d9",
             "description": "DAZN Baloncesto 3 (elcano)",
-            "icon": "daznbasket",
+            "icon": "daznbasket3",
             "category":
             {
                 "id": "daznbasket",
@@ -1346,7 +1346,7 @@
             "id": "103",
             "code": "16598735f228c6dff542125d0e308150b50fc715",
             "description": "24H 720p (elcano)",
-            "icon": "golplay",
+            "icon": "24h",
             "category":
             {
                 "id": "tdt",
@@ -1359,7 +1359,7 @@
             "id": "104",
             "code": "cc5ed178702605513cd18b4899c4be954d306cca",
             "description": "24H HD (new era)",
-            "icon": "golplay",
+            "icon": "24h",
             "category":
             {
                 "id": "tdt",
@@ -1372,7 +1372,7 @@
             "id": "105",
             "code": "ba4597903f099695e7d6bcc5938f91cb0798006b",
             "description": "Aragón TV HD (new era)",
-            "icon": "golplay",
+            "icon": "aragontv",
             "category":
             {
                 "id": "tdt",
@@ -1385,7 +1385,7 @@
             "id": "106",
             "code": "19cab799c86251ae8ae5f4b4faace9b78d784abc",
             "description": "Ten TV FHD (new era)",
-            "icon": "golplay",
+            "icon": "tentv",
             "category":
             {
                 "id": "tdt",
@@ -1593,7 +1593,7 @@
             "id": "122",
             "code": "fbc39d8a9e5d7c9ac6a1438d440104620f54e09c",
             "description": "M. Plus 2 FHD (new era)",
-            "icon": "mplus",
+            "icon": "mplus2",
             "category":
             {
                 "id": "mvarious",
