@@ -1,6 +1,6 @@
 {
   "appLatestVersion": "2.0",
-  "channelsDate": "28 oct 2026",
+  "channelsDate": "5 nov 2026",
   "categories": [
     {
       "id": "mlaliga",
@@ -21,42 +21,37 @@
             },
             {
               "label": "elcano",
-              "code": "9564bbcd75b67dfb2bd13f5f4d285cbba477a06f",
+              "code": "e1825dc2deae9f24ef55e6ff11fe780201ae758d",
               "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "f0caa9805cc64698dde2df1d96ed7ca46be5ea2c",
+              "code": "1c00e6a5404f84e9bd22aa9d8f09e96ffa4ab319",
               "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "995574ee5c2015c5a897ea414e9fe71c9ea9f4af",
+              "code": "69f76f6516620d91612e7509077b5ac3bb4d3c0b",
               "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "cdf251af580d44a71302fb5634b734981a77f8b7",
+              "code": "aae8bcb9b00c4505ccfa5981b860da012e8cf23e",
               "quality": "FHD"
             },
             {
               "label": "elcano",
-              "code": "f360890431ea544545be7594a7eb91d53a59b433",
+              "code": "3d4c3b9d44af0658a9ec6b29c92033f732b65422",
               "quality": "FHD"
             },
             {
               "label": "elcano",
-              "code": "925947ef0c09e1ad52b4149afee1b09389af02cd",
+              "code": "25ba36fb3ff78d37b304177cb5b9f9f84348d2ad",
               "quality": "FHD"
             },
             {
-              "label": "new era II",
-              "code": "d4ff041287a43e3114d411d671c4b4e92e21f33y",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era VI",
-              "code": "b3bdd6ef7f795c4f321a3ce5cf4907338f462929",
+              "label": "elcano",
+              "code": "72626ce6e2f0dc8f0a71ac1d9b960d3cc166c86e",
               "quality": "FHD"
             }
           ]
@@ -239,47 +234,22 @@
             },
             {
               "label": "elcano",
-              "code": "b4db57806f453925a07265e1aa6e68d483c9eca1",
+              "code": "45f160e173eb93dfdc37ca14b95ab1e6869868e0",
               "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "2d1876339f44ece2202db8aa46b2a75664f046cc",
-              "quality": "HD"
-            },
-            {
-              "label": "elcano",
-              "code": "a2e3766e36575a883b3deb97c9ac7b8c9b123f49",
+              "code": "66382069b0b1863428e2a107bbeb236241365e84",
               "quality": "FHD"
             },
             {
               "label": "elcano",
-              "code": "35852cbd63534cdfb7296fdd0e7cd02399020767",
+              "code": "76f0f810b6f72d5e98d188689526a052b0900ac5",
               "quality": "FHD"
             },
             {
               "label": "elcano",
-              "code": "200c7544b3e805572eb46cf74547a010cecd24b8",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "afbf2a479c5a5072698139f0f556ef3e77a99bd0",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era II",
-              "code": "afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f",
+              "code": "8ce3c02c950c857a1a258493bf2fb4628c1b48fd",
               "quality": "FHD"
             }
           ]
@@ -298,52 +268,12 @@
             },
             {
               "label": "elcano",
-              "code": "2edf107f0a39392308b6e11e8d4aedd38d8b4ac5",
-              "quality": "FHD"
-            },
-            {
-              "label": "elcano",
-              "code": "73c53f3966a55c1724b5feee6619aacfd28430e9",
+              "code": "231a1698890b6d930fc678ce8189bc7034ea2cda",
               "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "1fc35efcb1343a677bf4e2845495eb261800ee1a",
-              "quality": "FHD"
-            },
-            {
-              "label": "elcano",
-              "code": "8b9e94fdef30c94714b913c392d6873c80f7f3d0",
-              "quality": "FHD"
-            },
-            {
-              "label": "elcano",
-              "code": "e2b71e86cf1843e095041e1e9d54f145fd439a59",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "4fc6d0331830ad8743abab2fe2473b63bdfbc49f",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "498c56bd00f535e440c392de5af992421a31355c",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era II",
-              "code": "4b18a3b32df5960ed950fa907f8d509b1ad2a188",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era II",
-              "code": "ea03cc51980996ba6f2da49e30eee1de8a66ae54",
+              "code": "040cedb1ed1f571b6b2c87c078d3a24b47d19925",
               "quality": "FHD"
             }
           ]
@@ -362,32 +292,17 @@
             },
             {
               "label": "elcano",
-              "code": "5bbd64d2ec8641b68113b3fc6a871565a7fd95f8",
+              "code": "df5cc2ad032952b5ea9730eb943892a3f72b1478",
               "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "b30654732bc7887a740f9a53cfb14e44e0cb0451",
-              "quality": "HD"
-            },
-            {
-              "label": "elcano",
-              "code": "8b6ed4072996fb422c227812b767d0f40683fc2e",
+              "code": "e9391650a52a1fd103935e8969c2da2fdc348fbb",
               "quality": "FHD"
             },
             {
               "label": "elcano",
-              "code": "3ea7d803c8c2e487d50bccc9ec5a6e43c6ca6ccd",
-              "quality": "FHD"
-            },
-            {
-              "label": "elcano",
-              "code": "2589941ec02edf04f47711ea8bf21227f1b02cc2",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "07976f79d17a439d7aff46cf0d4cfdf80311caf5",
+              "code": "c6c9cd6cf39c3fe04d2ca3152f6ee13714cd390b",
               "quality": "FHD"
             }
           ]
@@ -406,23 +321,8 @@
             },
             {
               "label": "elcano",
-              "code": "10c01a693674f3404b22c39ee693de662e190a8c",
+              "code": "d0b3e6728c08ff648cad74021c36a7410069160f",
               "quality": "HD"
-            },
-            {
-              "label": "elcano",
-              "code": "be408afcb674d7fe75eae9a9a2b4f5ff1469a1c0",
-              "quality": "FHD"
-            },
-            {
-              "label": "elcano",
-              "code": "599dcc5a265c1ce27c96dbabe6323408ec641f1a",
-              "quality": "FHD"
-            },
-            {
-              "label": "elcano",
-              "code": "94ab6328079150a42cea4e386c834cccfec6073b",
-              "quality": "FHD"
             }
           ]
         },
@@ -447,11 +347,6 @@
               "label": "elcano",
               "code": "e1fd92be7c3e8c45fb58a3be2b428126363b68ed",
               "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5",
-              "quality": "FHD"
             }
           ]
         },
@@ -464,22 +359,12 @@
           "sources": [
             {
               "label": "elcano",
-              "code": "0694fb751683262cd5b78426604358abcfbc24e4",
-              "quality": "HD"
-            },
-            {
-              "label": "elcano",
-              "code": "29ffc3b86b86820af40fa03570ff7c15013f998e",
+              "code": "577c31553729915add3d154e53adfe4415a7c15a",
               "quality": "FHD"
             },
             {
               "label": "elcano",
-              "code": "331fae4953bbdde8925d08720e0ecb3c2f8919eb",
-              "quality": "FHD"
-            },
-            {
-              "label": "elcano",
-              "code": "0f4128dfadd0d4a1af293a0729991b5f49c10007",
+              "code": "2d2bd9bef1ddf8443c414cda886cc7a282d8fd15",
               "quality": "FHD"
             }
           ]
@@ -493,12 +378,26 @@
           "sources": [
             {
               "label": "elcano",
-              "code": "248cbf49aeac743cdb6553d148abb5f443bf8b7d",
+              "code": "3a7dc12a37229e29861b826f7935b2d7804b817b",
               "quality": "FHD"
             },
             {
               "label": "elcano",
-              "code": "5ea987ee6c2de6c2cdc41780344c6aa5f42252c0",
+              "code": "aa3168cd64fa1cea8409dcd1ceb294659de70c00",
+              "quality": "FHD"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "key": "m+l.campeones8",
+          "icon": "mlcampeones8",
+          "label": "M+ L.Campeones 8",
+          "idCategory": "mlcampeones",
+          "sources": [
+            {
+              "label": "elcano",
+              "code": "45450f4522fc4ec373feac3bcab581c0a5877a16",
               "quality": "FHD"
             }
           ]
@@ -625,7 +524,7 @@
     {
       "id": "mbaloncesto",
       "icon": "mbaloncesto",
-      "label": "M+ Baloncesto | DAZN Basket",
+      "label": "M+ Baloncesto | DAZN Basket | NBA League Pass",
       "channels": [
         {
           "id": "0",
@@ -636,13 +535,18 @@
           "sources": [
             {
               "label": "elcano",
-              "code": "9bb868065ea84846ab5070fe37b55edc3657041c",
+              "code": "788891525283f541893b809c54d1b9cbe2344dc5",
               "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "3ee11ef74877095b8f22add38c1966df2841da31",
-              "quality": "HD"
+              "code": "f460b9c1b77222ac21b0e148f2b2c07791ce2d5d",
+              "quality": "FHD"
+            },
+            {
+              "label": "elcano",
+              "code": "e5b57c3919b1714f01cb6e5f1812d22aa87bae2b",
+              "quality": "FHD"
             }
           ]
         },
@@ -655,13 +559,32 @@
           "sources": [
             {
               "label": "elcano",
-              "code": "15f450f3c63541e14995c7163b867037920a4bbb",
-              "quality": "FHD"
+              "code": "09ee8afc1d9b468d3b470c682cfcacd58a95e273",
+              "quality": "HD"
             }
           ]
         },
         {
           "id": "2",
+          "key": "mbaloncesto",
+          "icon": "mbaloncesto",
+          "label": "M+ Baloncesto",
+          "idCategory": "mbaloncesto",
+          "sources": [
+            {
+              "label": "elcano",
+              "code": "5ba57eae303be35f8b551d2ba27b27ef0dd649b0",
+              "quality": "FHD"
+            },
+            {
+              "label": "elcano",
+              "code": "7afd36951b7c47b2d784ad1282f0d8fa532d0fe0",
+              "quality": "FHD"
+            }
+          ]
+        },
+        {
+          "id": "3",
           "key": "mbaloncesto2",
           "icon": "mbaloncesto2",
           "label": "M+ Baloncesto 2",
@@ -669,13 +592,13 @@
           "sources": [
             {
               "label": "elcano",
-              "code": "8177df89a64fd79d9a542443d2ad5111e04ae321",
+              "code": "e9c285968edade2d0ce4cdcaa32bbe5f97716fb5",
               "quality": "FHD"
             }
           ]
         },
         {
-          "id": "3",
+          "id": "4",
           "key": "mbaloncesto3",
           "icon": "mbaloncesto3",
           "label": "M+ Baloncesto 3",
@@ -683,7 +606,31 @@
           "sources": [
             {
               "label": "elcano",
-              "code": "f42f90c0788a37c210740372e2314210d5aca4a1",
+              "code": "e675aecf437124d37f7f2daf31669f1af532a50c",
+              "quality": "FHD"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "key": "nbaleaguepass",
+          "icon": "nbaleaguepass",
+          "label": "NBA League Pass",
+          "idCategory": "mbaloncesto",
+          "sources": [
+            {
+              "label": "elcano",
+              "code": "8698d62f3b2a35aabb599c420b06945ea006400b",
+              "quality": "FHD"
+            },
+            {
+              "label": "elcano",
+              "code": "2eedcbcc7173d3622804609460687d3e5a19e1ff",
+              "quality": "FHD"
+            },
+            {
+              "label": "elcano",
+              "code": "4af480f65d5d09eea5b546a79ace5b55979c7685",
               "quality": "FHD"
             }
           ]
@@ -709,27 +656,17 @@
             },
             {
               "label": "elcano",
-              "code": "7f411bec773950b69bb46a62b338245c3a8054d7",
+              "code": "c50eeeff75b016cc115842cd2db4e80c5615e89a",
               "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "feeca95525a4b9891091cc0c585b6c4e218ba734",
+              "code": "f96a97afa44dd515c09eb6e7863f6cd465c8a90e",
               "quality": "FHD"
             },
             {
               "label": "elcano",
-              "code": "ebd5bce4ca289b60bb73145dcea4203fbce64093",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "8546cff89e4ee8bf3ad31cf6457c3bc2c4341031",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "9be118a64eb603b5eb62be6cf27631d3891b5174",
+              "code": "c499ba98f4b0d78804ef5aa64e5d1f4d44f7e2e9",
               "quality": "FHD"
             }
           ]
@@ -743,12 +680,12 @@
           "sources": [
             {
               "label": "elcano",
-              "code": "fc92de3bf2f7748bd418b942de9e982bbb3400f6",
+              "code": "8c22182e8ebe7320c97d87d030a6b5741c84f782",
               "quality": "FHD"
             },
             {
               "label": "elcano",
-              "code": "adad29e6b016cfde0e3a8e4616f1442461ad0d23",
+              "code": "ced3af9d4f5f90fa0c2465d3e01d24dfe7f8e22c",
               "quality": "FHD"
             }
           ]
@@ -774,33 +711,23 @@
             },
             {
               "label": "elcano",
-              "code": "b7f8d2c56969cec129a275308c3750dffffee3a8",
+              "code": "0fd61072edad41e15d072cfab53e5e3503cbd498",
               "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "dbb418eeb96d891ae3aa7ef84feb58eed5b8b722",
+              "code": "63307e32e9cbf51e7ca610f9fac0b9910217ea49",
               "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "c730c0e0d0bb0270bf5a1e6b5f0436f6c1436728",
+              "code": "7793c6658b8d9c5e6219f27ce54e20ca1b8c0859",
               "quality": "FHD"
             },
             {
               "label": "elcano",
-              "code": "f6b5d72663225d9369ebb48f5ff4735606672dc5",
+              "code": "403354bfa8ec7769589b18977c22b99f1cae5aca",
               "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "332d8fdeb9c51385230b8c9448e047ccc4a6355d",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era III",
-              "code": "af393f93814d03160d48d2730759593b7bea5b47",
-              "quality": "HD"
             }
           ]
         },
@@ -818,32 +745,7 @@
             },
             {
               "label": "elcano",
-              "code": "2e8b57831828106fdc8a6cc2b807b9aa2ec4ccaa",
-              "quality": "HD"
-            },
-            {
-              "label": "elcano",
-              "code": "5353bf7cc8b92aaf7ce19c7f6cb7c3547326f025",
-              "quality": "FHD"
-            },
-            {
-              "label": "elcano",
-              "code": "d407140a899016547697f48abf592b537862ba53",
-              "quality": "FHD"
-            },
-            {
-              "label": "elcano",
-              "code": "fce2c35d8c81f1070d64b5ac79b9bf55eead50af",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "edd06f11e1cef292a1d795e15207ef2f580e298c",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "6e212a916c83638268047dd2757c95b14f7d25a3",
+              "code": "1c15bb40e6b2d153e3b30ed28eaa057ea44c3f41",
               "quality": "FHD"
             }
           ]
@@ -862,12 +764,17 @@
             },
             {
               "label": "elcano",
-              "code": "610287e294f25ffb1714bcde153ed1881d5d0ff0",
+              "code": "b53deba2d4f6a26d6fe69cffec360e1916d77fa8",
               "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "59538521d1d04911210dfe8c548f9fe0137df6fc",
+              "code": "c47fe0698f928f92481ca709ead6ff7b635a8bf9",
+              "quality": "HD"
+            },
+            {
+              "label": "elcano",
+              "code": "239fc67555e053a344d0259560ae23c37a96e64b",
               "quality": "FHD"
             }
           ]
@@ -886,7 +793,7 @@
             },
             {
               "label": "elcano",
-              "code": "d1c369ddf2c5c4a9b2eb5f0cb68299d4aa9f68b8",
+              "code": "aabc797c7fa011ad4ad08b7bdaa9dc61e2cfb5ed",
               "quality": "FHD"
             }
           ]
@@ -899,8 +806,13 @@
           "idCategory": "mdeportes",
           "sources": [
             {
-              "label": "sport tv",
-              "code": "3230cdca852a10325222e3c546e499e31d547a90",
+              "label": "elcano",
+              "code": "b872a46bd1a4e99bd1cd68c8e61f51279f456539",
+              "quality": "FHD"
+            },
+            {
+              "label": "elcano",
+              "code": "bfcc1ccd2ce52dd947731a8d8fc9de85d5dbe4c3",
               "quality": "FHD"
             }
           ]
@@ -919,7 +831,45 @@
             },
             {
               "label": "elcano",
-              "code": "42cd59e01c55aacc49e5a01897b47f68abe1a8c6",
+              "code": "cb389520f92a6ec25a14e9887103fb7463c0ced4",
+              "quality": "FHD"
+            },
+            {
+              "label": "elcano",
+              "code": "432c450563e47b21e41540f19bff0f05d5adc59f",
+              "quality": "FHD"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "key": "m+deportes7",
+          "icon": "mdeportes7",
+          "label": "M+ Deportes 7",
+          "idCategory": "mdeportes",
+          "sources": [
+            {
+              "label": "elcano",
+              "code": "9bb56662445103b1979e92d3578c9d75f79f8787",
+              "quality": "HD"
+            },
+            {
+              "label": "elcano",
+              "code": "a255f1972d81d8e716a987b1e9b02a1905eb081c",
+              "quality": "FHD"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "key": "m+deportes8",
+          "icon": "mdeportes8",
+          "label": "M+ Deportes 8",
+          "idCategory": "mdeportes",
+          "sources": [
+            {
+              "label": "elcano",
+              "code": "29b1e1f1009f52d5adf95e4d6089154d8ec0365b",
               "quality": "FHD"
             }
           ]
@@ -940,43 +890,13 @@
           "sources": [
             {
               "label": "elcano",
-              "code": "d5a04834b3fbbec759bd7578338141194d6133eb",
+              "code": "9311a4590f5966acbb77e4c2d13e1be17fd258b4",
               "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "8ac2ad3d86aee7bd9ae0f6c7a7962aa85299d523",
-              "quality": "HD"
-            },
-            {
-              "label": "elcano",
-              "code": "1df7ce7d3912f2bff730f14df8beaeb2d73c49b4",
+              "code": "9e5da99bac88a4a3ed200d3bdf260b683145ca57",
               "quality": "FHD"
-            },
-            {
-              "label": "elcano",
-              "code": "08d26b5d9bf456ae21e968f0f85375925ff510e3",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "3b2a8b41e7097c16b0468b42d7de0320886fa933",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "2940120bf034db79a7f5849846ccea0255172eae",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "651d6be899d1fafa107a265a9dc00ff914c1b548",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era III",
-              "code": "86262568aa72b956b06ac67b1c310a32248a0e98",
-              "quality": "HD"
             }
           ]
         },
@@ -989,12 +909,22 @@
           "sources": [
             {
               "label": "elcano",
-              "code": "8e432fa9609b7160bea7eff6843e6e6bf0888575",
+              "code": "eadc069bbd45d77cb33ca3bac6f6d86281597122",
               "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "ae62797916ae7f033e36acf1b1e0bc18d8b8265b",
+              "code": "8fd3ab88c95744e502aca1cdb369e07941914344",
+              "quality": "FHD"
+            },
+            {
+              "label": "elcano",
+              "code": "acd22bfea329235832b0d1d8d1ab7a963b31d5c7",
+              "quality": "FHD"
+            },
+            {
+              "label": "elcano",
+              "code": "973094e625613b693cffb05a3f98fabe2d59dafa",
               "quality": "FHD"
             }
           ]
@@ -1008,8 +938,13 @@
           "sources": [
             {
               "label": "elcano",
-              "code": "88c7f058c44a410d808bb0ab5dd0a11328345f72",
+              "code": "354a0fac478c2887a6e0382b1f39a54a5f7f7de1",
               "quality": "HD"
+            },
+            {
+              "label": "elcano",
+              "code": "acc2d46eaf6a0b4c3dbd299ffcd67c2b946c2c3e",
+              "quality": "FHD"
             }
           ]
         }
@@ -1308,27 +1243,27 @@
           "sources": [
             {
               "label": "elcano",
-              "code": "5243e85375697962e9eff6fb6b032c0b0e70ea5e",
-              "quality": "FHD"
-            },
-            {
-              "label": "elcano",
-              "code": "1c69be9e4a70f40b448947816f5225e6248ec7b2",
-              "quality": "FHD"
-            },
-            {
-              "label": "elcano",
-              "code": "72b447705d03e4f43b8787c4a33ba4aa7f51b9ae",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "11cbb5346d28af0b972e646832f4be23dd39502d",
+              "code": "218137b5dc6bb17ec3df65019225ceb7ddeb37e6",
               "quality": "HD"
             },
             {
-              "label": "new era VI",
-              "code": "18b03739d660f0066364343e226e437bf2555d56",
+              "label": "elcano",
+              "code": "aaf8f939186264a31449c5e31ebf424965b0369f",
+              "quality": "FHD"
+            },
+            {
+              "label": "elcano",
+              "code": "002ebb242685b729fd1235fc24c93110593343a6",
+              "quality": "FHD"
+            },
+            {
+              "label": "elcano",
+              "code": "49ceb0e5d2c2c41fcbe6ed56d78eb78559aa1dca",
+              "quality": "FHD"
+            },
+            {
+              "label": "elcano",
+              "code": "27fdc342ae5fae5012eaf9502415107d94eb1f11",
               "quality": "FHD"
             }
           ]
@@ -1542,6 +1477,11 @@
           "sources": [
             {
               "label": "elcano",
+              "code": "ca185612d5b5b6e863a16fc0177e8a6db1d1d3c2",
+              "quality": "FHD"
+            },
+            {
+              "label": "elcano",
               "code": "61277ba97bff7c84d197cf6ceae3817f671b6619",
               "quality": "HD"
             },
@@ -1568,21 +1508,6 @@
             {
               "label": "new loop",
               "code": "e541a954465df29ccce4d829529d983ffb2803d4",
-              "quality": "HD"
-            },
-            {
-              "label": "new era",
-              "code": "bae98f69fbf867550b4f73b4eb176dae84d7f909",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "714e14e6d6e27660fd25a75b57b0ac5580fe705d",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era III",
-              "code": "62a5750be4d2218b1064f83afaac4770fd92350d",
               "quality": "HD"
             }
           ]
@@ -1611,17 +1536,17 @@
             },
             {
               "label": "elcano",
-              "code": "7b09b15039c590bedc5c16b18b1a3fd1fac849d1",
+              "code": "be1ab9f792dac014fc3ce8e7a52e6bdd92bea6c6",
               "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "02e0e0c70c297b19b56c2fc4bb5475b235440561",
+              "code": "ce85dfd81162036f5d113343332e523ca94ce825",
               "quality": "FHD"
             },
             {
               "label": "elcano",
-              "code": "e7385702c26187c4f90e343ff1a3007359b3a76e",
+              "code": "dcc3be2e16b61b10557d8a7e954c5496ba5e4b60",
               "quality": "FHD"
             },
             {
@@ -1652,27 +1577,12 @@
           "sources": [
             {
               "label": "elcano",
-              "code": "3e6eca619bc177109d36c1714de74a597e7540ea",
-              "quality": "FHD"
+              "code": "d2b5299ed45cbaf35482bb0869b2c2f75fbed64a",
+              "quality": "HD"
             },
             {
               "label": "elcano",
-              "code": "7ef0de1c6dba381b6c504fb6f683d95e4ff60115",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era",
-              "code": "8c67cdb5ba81976662c3a67984a9545d9cfb0f70",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era III",
-              "code": "fa931cbc87dc9d66fdd30a9644e054b403960056",
-              "quality": "FHD"
-            },
-            {
-              "label": "new era VI",
-              "code": "c1b7f54af0de256d1ac0fcac4c130e62660089f4",
+              "code": "a2d33536b7d55727c8f6bea010624d6478c3ba2d",
               "quality": "FHD"
             }
           ]
@@ -1956,12 +1866,7 @@
           "sources": [
             {
               "label": "elcano",
-              "code": "1738792177ef367f8a867bdc65ed65dd942c7f8f",
-              "quality": "FHD"
-            },
-            {
-              "label": "elcano",
-              "code": "748a3b1e3cfc26765c2d2adc37697dc4093a2f46",
+              "code": "6945bf402126a38905b2645d61f9915a3b5a8b09",
               "quality": "FHD"
             },
             {
@@ -1980,12 +1885,7 @@
           "sources": [
             {
               "label": "elcano",
-              "code": "1738792177ef367f8a867bdc65ed65dd942c7f8f",
-              "quality": "FHD"
-            },
-            {
-              "label": "elcano",
-              "code": "748a3b1e3cfc26765c2d2adc37697dc4093a2f46",
+              "code": "1694a82acf03948111efa7b30765eee5c7091d78",
               "quality": "FHD"
             }
           ]
@@ -2107,42 +2007,28 @@
           "sources": [
             {
               "label": "elcano",
-              "code": "879e9d2023832fc3f24b9b86ca4a0ef447434cbb",
+              "code": "0664b139ecacfe236cab92ebbb26f2d5a6816455",
               "quality": "FHD"
             },
             {
               "label": "elcano",
-              "code": "38ec4a883d24ea161f7e136bc62dc9d59acca5a6",
+              "code": "af565d3fa5193d629eaf01b4fe080b734170d14e",
               "quality": "FHD"
             },
             {
-              "label": "new era V",
-              "code": "c1ee6e1e0ef5928d8261f855c417de21794f437d",
+              "label": "elcano",
+              "code": "eb1a92754ca21883e4473646eed3a5d69202e629",
               "quality": "FHD"
             },
             {
-              "label": "new era V",
-              "code": "8677d339ecddd75165c0015025f598b6215974cf",
+              "label": "elcano",
+              "code": "2042a3df45db52568fb629ca10b8b62b16c4f9d6",
               "quality": "FHD"
             }
           ]
         },
         {
           "id": "12",
-          "key": "canal2(1rfef)",
-          "icon": "others",
-          "label": "Canal 2 (1RFEF)",
-          "idCategory": "others",
-          "sources": [
-            {
-              "label": "new era V",
-              "code": "8677d339ecddd75165c0015025f598b6215974cf",
-              "quality": "HD"
-            }
-          ]
-        },
-        {
-          "id": "13",
           "key": "altitudesports",
           "icon": "others",
           "label": "Altitude Sports",
@@ -2161,7 +2047,7 @@
           ]
         },
         {
-          "id": "14",
+          "id": "13",
           "key": "ufcfightpass",
           "icon": "others",
           "label": "UFC Fight Pass",
